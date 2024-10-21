@@ -60,12 +60,12 @@ Generate magical QR codes with a wave of your digital wand! ✨
 - `static/styles.css`: Contain styling code for make ui batter 
 - `static/script.js`: Contain java script code for generator  random pixels in button
 
-<!-- ### Demo video 👇
+### Demo video 👇
 
 <p>
- <a href="https://drive.google.com/file/d/1RhmA5AAZ4funuQgp2eiHEtZpRvecIoSx/view?usp=sharing" target="blank">
+ <a href="https://drive.google.com/file/d/1bsVBRbo4fmqtlTMRjlSp9c15HeG1ETfk/view?usp=sharing" target="blank">
   <img src="https://img.shields.io/badge/Video-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="brijesh" />
-</a> --> 
+</a> 
 
 ## 🤝 Contributing
 
